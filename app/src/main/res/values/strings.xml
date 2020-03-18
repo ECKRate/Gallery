@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gallery</string>
+
+    <string name="action_remove">Remove</string>
+    <string name="photos">Photos (%d)</string>
+    <string name="image_url">ImageUrl</string>
+    <string name="add_image">Add image</string>
+</resources>
